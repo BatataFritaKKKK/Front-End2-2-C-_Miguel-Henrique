@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang ="pt-br> 
+  <head> 
+    <meta charset="UTF-8>
+    <meta name="viwport"content="with=device-width,initial-cale=1.0">
+      <title>Miguel Trabalho</title>
+</head> 
+  <body> 
+  <h1> Nome: Miguel</h1>
+  <p> Idade: 16</p>
+  <p> Profissão:Estudante </p>
+  <p> Seu hobbye: jogar</p>
+  <p> Resumo: ou um estuante de 16 ano que gosta de passar seu tempo vago jogando</p>
+<img src="foto" 
+alt="Foto2">
+</body>
+</html>
